@@ -1,0 +1,7 @@
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk1Queue2.0\Wk1Queue2.0\bin\Debug\Wk1Queue2.0.exe.config
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk1Queue2.0\Wk1Queue2.0\bin\Debug\Wk1Queue2.0.exe
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk1Queue2.0\Wk1Queue2.0\bin\Debug\Wk1Queue2.0.pdb
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk1Queue2.0\Wk1Queue2.0\obj\Debug\Wk1Queue2.0.csproj.CoreCompileInputs.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk1Queue2.0\Wk1Queue2.0\obj\Debug\Wk1Queue2.0.exe
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk1Queue2.0\Wk1Queue2.0\obj\Debug\Wk1Queue2.0.pdb
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk1Queue2.0\Wk1Queue2.0\obj\Debug\Wk1Queue2.0.csprojAssemblyReference.cache

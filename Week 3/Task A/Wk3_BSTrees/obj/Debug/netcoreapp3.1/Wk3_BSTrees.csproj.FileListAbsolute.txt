@@ -1,0 +1,26 @@
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\bin\Debug\netcoreapp3.1\Wk3_BSTrees.exe
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\bin\Debug\netcoreapp3.1\Wk3_BSTrees.deps.json
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\bin\Debug\netcoreapp3.1\Wk3_BSTrees.runtimeconfig.json
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\bin\Debug\netcoreapp3.1\Wk3_BSTrees.runtimeconfig.dev.json
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\bin\Debug\netcoreapp3.1\Wk3_BSTrees.dll
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\bin\Debug\netcoreapp3.1\Wk3_BSTrees.pdb
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.csprojAssemblyReference.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.AssemblyInfoInputs.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.AssemblyInfo.cs
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.csproj.CoreCompileInputs.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.dll
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.pdb
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.genruntimeconfig.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\bin\Debug\netcoreapp3.1\Wk3_BSTrees.exe
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\bin\Debug\netcoreapp3.1\Wk3_BSTrees.deps.json
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\bin\Debug\netcoreapp3.1\Wk3_BSTrees.runtimeconfig.json
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\bin\Debug\netcoreapp3.1\Wk3_BSTrees.runtimeconfig.dev.json
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\bin\Debug\netcoreapp3.1\Wk3_BSTrees.dll
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\bin\Debug\netcoreapp3.1\Wk3_BSTrees.pdb
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.csprojAssemblyReference.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.AssemblyInfoInputs.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.AssemblyInfo.cs
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.csproj.CoreCompileInputs.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.dll
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.pdb
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task A\Wk3_BSTrees\obj\Debug\netcoreapp3.1\Wk3_BSTrees.genruntimeconfig.cache

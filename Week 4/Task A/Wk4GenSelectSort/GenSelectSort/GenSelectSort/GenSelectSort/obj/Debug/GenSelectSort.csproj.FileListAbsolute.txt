@@ -1,0 +1,6 @@
+C:\Users\55129697\source\repos\GenSelectSort\GenSelectSort\bin\Debug\GenSelectSort.exe.config
+C:\Users\55129697\source\repos\GenSelectSort\GenSelectSort\bin\Debug\GenSelectSort.exe
+C:\Users\55129697\source\repos\GenSelectSort\GenSelectSort\bin\Debug\GenSelectSort.pdb
+C:\Users\55129697\source\repos\GenSelectSort\GenSelectSort\obj\Debug\GenSelectSort.csprojAssemblyReference.cache
+C:\Users\55129697\source\repos\GenSelectSort\GenSelectSort\obj\Debug\GenSelectSort.exe
+C:\Users\55129697\source\repos\GenSelectSort\GenSelectSort\obj\Debug\GenSelectSort.pdb

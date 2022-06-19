@@ -1,0 +1,20 @@
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk4TaskB\obj\Debug\Wk4TaskB.csprojAssemblyReference.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk4TaskB\obj\Debug\Wk4TaskB.Form1.resources
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk4TaskB\obj\Debug\Wk4TaskB.Properties.Resources.resources
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk4TaskB\obj\Debug\Wk4TaskB.csproj.GenerateResource.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk4TaskB\obj\Debug\Wk4TaskB.csproj.CoreCompileInputs.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk4TaskB\bin\Debug\Wk4TaskB.exe.config
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk4TaskB\bin\Debug\Wk4TaskB.exe
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk4TaskB\bin\Debug\Wk4TaskB.pdb
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk4TaskB\obj\Debug\Wk4TaskB.exe
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk4TaskB\obj\Debug\Wk4TaskB.pdb
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 4\Task B\Wk4TaskB\bin\Debug\Wk4TaskB.exe.config
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 4\Task B\Wk4TaskB\bin\Debug\Wk4TaskB.exe
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 4\Task B\Wk4TaskB\bin\Debug\Wk4TaskB.pdb
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 4\Task B\Wk4TaskB\obj\Debug\Wk4TaskB.csprojAssemblyReference.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 4\Task B\Wk4TaskB\obj\Debug\Wk4TaskB.Form1.resources
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 4\Task B\Wk4TaskB\obj\Debug\Wk4TaskB.Properties.Resources.resources
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 4\Task B\Wk4TaskB\obj\Debug\Wk4TaskB.csproj.GenerateResource.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 4\Task B\Wk4TaskB\obj\Debug\Wk4TaskB.csproj.CoreCompileInputs.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 4\Task B\Wk4TaskB\obj\Debug\Wk4TaskB.exe
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 4\Task B\Wk4TaskB\obj\Debug\Wk4TaskB.pdb

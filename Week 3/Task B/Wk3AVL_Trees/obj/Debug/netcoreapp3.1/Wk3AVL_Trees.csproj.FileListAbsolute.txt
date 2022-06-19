@@ -1,0 +1,7 @@
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3AVL_Trees\obj\Debug\netcoreapp3.1\Wk3AVL_Trees.AssemblyInfoInputs.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3AVL_Trees\obj\Debug\netcoreapp3.1\Wk3AVL_Trees.AssemblyInfo.cs
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk3AVL_Trees\obj\Debug\netcoreapp3.1\Wk3AVL_Trees.csproj.CoreCompileInputs.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task B\Wk3AVL_Trees\obj\Debug\netcoreapp3.1\Wk3AVL_Trees.csprojAssemblyReference.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task B\Wk3AVL_Trees\obj\Debug\netcoreapp3.1\Wk3AVL_Trees.AssemblyInfoInputs.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task B\Wk3AVL_Trees\obj\Debug\netcoreapp3.1\Wk3AVL_Trees.AssemblyInfo.cs
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 3\Task B\Wk3AVL_Trees\obj\Debug\netcoreapp3.1\Wk3AVL_Trees.csproj.CoreCompileInputs.cache

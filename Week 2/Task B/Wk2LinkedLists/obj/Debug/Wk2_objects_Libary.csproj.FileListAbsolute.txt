@@ -1,0 +1,14 @@
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk2_objects_Libary\bin\Debug\Wk2_objects_Libary.exe.config
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk2_objects_Libary\bin\Debug\Wk2_objects_Libary.exe
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk2_objects_Libary\bin\Debug\Wk2_objects_Libary.pdb
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk2_objects_Libary\obj\Debug\Wk2_objects_Libary.csprojAssemblyReference.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk2_objects_Libary\obj\Debug\Wk2_objects_Libary.csproj.CoreCompileInputs.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk2_objects_Libary\obj\Debug\Wk2_objects_Libary.exe
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk2_objects_Libary\obj\Debug\Wk2_objects_Libary.pdb
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 2\Task B\Wk2LinkedLists\bin\Debug\Wk2_objects_Libary.exe.config
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 2\Task B\Wk2LinkedLists\bin\Debug\Wk2_objects_Libary.exe
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 2\Task B\Wk2LinkedLists\bin\Debug\Wk2_objects_Libary.pdb
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 2\Task B\Wk2LinkedLists\obj\Debug\Wk2_objects_Libary.csprojAssemblyReference.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 2\Task B\Wk2LinkedLists\obj\Debug\Wk2_objects_Libary.csproj.CoreCompileInputs.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 2\Task B\Wk2LinkedLists\obj\Debug\Wk2_objects_Libary.exe
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 2\Task B\Wk2LinkedLists\obj\Debug\Wk2_objects_Libary.pdb

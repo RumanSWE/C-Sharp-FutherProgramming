@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wk5GraphTaskB", "Wk5GraphTaskB.csproj", "{686763EC-1825-473C-B321-701B6CC17A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686763EC-1825-473C-B321-701B6CC17A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686763EC-1825-473C-B321-701B6CC17A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686763EC-1825-473C-B321-701B6CC17A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686763EC-1825-473C-B321-701B6CC17A52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA1A7A0-468A-478F-A200-7E7B6A22848F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk5GraphTaskB\bin\Debug\Wk5GraphTaskB.exe.config
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk5GraphTaskB\bin\Debug\Wk5GraphTaskB.exe
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk5GraphTaskB\bin\Debug\Wk5GraphTaskB.pdb
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.csprojAssemblyReference.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.Form1.resources
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.Properties.Resources.resources
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.csproj.GenerateResource.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.csproj.CoreCompileInputs.cache
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.exe
+C:\Users\Ruman\OneDrive - MMU\CS year 2\programmijng\C#\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.pdb
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 5\Task B\Wk5GraphTaskB\bin\Debug\Wk5GraphTaskB.exe.config
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 5\Task B\Wk5GraphTaskB\bin\Debug\Wk5GraphTaskB.exe
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 5\Task B\Wk5GraphTaskB\bin\Debug\Wk5GraphTaskB.pdb
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 5\Task B\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.csprojAssemblyReference.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 5\Task B\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.Form1.resources
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 5\Task B\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.Properties.Resources.resources
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 5\Task B\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.csproj.GenerateResource.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 5\Task B\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.csproj.CoreCompileInputs.cache
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 5\Task B\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.exe
+C:\Users\Ruman\Desktop\Assignment Grouped\Week 5\Task B\Wk5GraphTaskB\obj\Debug\Wk5GraphTaskB.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Wk3_BSTrees/1.0.0": {
+        "runtime": {
+          "Wk3_BSTrees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wk3_BSTrees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
